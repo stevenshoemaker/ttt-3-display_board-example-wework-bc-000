@@ -3,5 +3,5 @@ print "   |   |   "
 print "-----------"
 print "   |   |   "
 print "-----------"
-print "   |   |   "
+puts "   |   |   "
 end
