@@ -1,7 +1,6 @@
 def display_board
-puts ""   "|"   "|"   ""
+print ""   "|"   "|"   ""
 puts "-----------------"
 puts ""   "|"   "|"   ""
 puts "-----------------"
 puts ""   "|"   "|"   ""
-end
